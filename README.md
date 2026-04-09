@@ -1,13 +1,6 @@
 # About Me:
 <p align="center">
   <img src="main.svg" width="100%" alt="Tsuk1y0 Profile" />
-</p>
-
-### 🎧 Listening on Spotify
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ceysjt5kp2rvokdmdtn7w6i3za&cover_image=true&theme=default&show_offline=false&background_color=1a1b26&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
-
-## 🌐 Socials:
-<p align="left">
   <a href="https://discord.gg/QV8kSGNTCf">
     <img src="https://img.shields.io/discord/1491792436698157119?color=7289da&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
   </a>
@@ -16,9 +9,10 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
+<br/>
 
-<table>
+# 📊 GitHub Stats:
+<table border="0">
   <tr>
     <td width="50%" align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tsuk1y0Dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" />
@@ -34,11 +28,25 @@
   </tr>
 </table>
 
+<br/>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tsuk1y0Dev&color=79dac8&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ceysjt5kp2rvokdmdtn7w6i3za&cover_image=true&theme=default&show_offline=false&background_color=1a1b26&interchange=false&profanity=false" alt="Spotify" width="400" />
+  </a>
 </p>
+
+---
 
 ## ☕ Support my journey
 *If you find my configs helpful or just want to support a fellow Linux enthusiast, I’d appreciate a coffee!* ☕
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Tsuk1y0)
+<p align="left">
+  <a href="https://buymeacoffee.com/Tsuk1y0">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Tsuk1y0Dev&color=79dac8&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+</p>
