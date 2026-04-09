@@ -14,8 +14,10 @@
 | **Theme** | Tokyo Night (Cyan) |
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuk1y0Dev&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tsuk1y0Dev&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tsuk1y0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuk1y0&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26)
 
 ---
 
