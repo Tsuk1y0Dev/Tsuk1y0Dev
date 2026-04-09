@@ -1,6 +1,6 @@
 # About Me:
 <p align="center">
-  <img src="main.svg" width="800" alt="Tsuk1y0 Profile" />
+  <img src="main.svg" width="100%" alt="Tsuk1y0 Profile" />
 </p>
 
 ### 🎧 Listening on Spotify
@@ -17,20 +17,25 @@
 </p>
 
 # 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats-two-no-border.vercel.app/api?username=Tsuk1y0Dev&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Tsuk1y0Dev&theme=tokyonight&layout=compact&include_all_commits=true&count_private=true" alt="Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsuk1y0Dev&theme=tokyonight&hide_border=false" alt="Streak" />
-</p>
 
----
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tsuk1y0Dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tsuk1y0Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsuk1y0Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Tsuk1y0Dev&icon=0&color=0" alt="Visit Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Tsuk1y0Dev&color=79dac8&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </p>
 
 ## ☕ Support my journey
