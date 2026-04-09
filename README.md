@@ -1,6 +1,6 @@
 # About Me:
 <p align="center">
-  <img src="main.svg" width="100%" alt="Tsuk1y0 Profile" />
+  <img src="main.svg" width="100%" alt="Profile" />
   <a href="https://discord.gg/QV8kSGNTCf">
     <img src="https://img.shields.io/discord/1491792436698157119?color=7289da&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
   </a>
