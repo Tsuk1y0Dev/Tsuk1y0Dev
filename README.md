@@ -1,13 +1,10 @@
 # Hi there 👋 I'm Tsuk1y0 🌿
 
-> **Arch Linux** enthusiast | **Minimalist** | Focused on clean code and soft aesthetics.
 
 ### 🎧 Listening on Spotify
-[![Spotify](https://vercel.app)](https://spotify.com)
-<!-- Note: You'll need to replace YOUR_SPOTIFY_ID with your actual Spotify numerical ID -->
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=Tsuk1y0&cover_image=true&theme=tokyonight)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
 
 ### 🛠 System & Environment
-
 
 | Component | Choice |
 | :--- | :--- |
@@ -17,7 +14,8 @@
 | **Theme** | Tokyo Night (Cyan) |
 
 ### 📊 GitHub Stats
-![Top Langs](https://vercel.app)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuk1y0Dev&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tsuk1y0Dev&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
