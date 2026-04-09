@@ -9,7 +9,7 @@
           padding: 30px;
           border-radius: 15px;
           border: 1px solid #414868;
-          height: auto;
+          height: min-content;
         }
         .header {
           font-size: 32px;
