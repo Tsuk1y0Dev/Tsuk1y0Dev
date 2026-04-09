@@ -13,11 +13,17 @@
 | **Shell** | Zsh + OhMyZsh |
 | **Theme** | Tokyo Night (Cyan) |
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tsuk1y0Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26)
+![Metrics](https://metrics.lecoq.io/Tsuk1y0Dev?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia/Yakutsk&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuk1y0Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26)
+---
+
+### 💻 Skills & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,php,mysql,figma,postman,linux,arch&theme=dark" />
+</p>
 
 ---
 
