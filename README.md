@@ -2,7 +2,7 @@
 
 
 ### 🎧 Listening on Spotify
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=Tsuk1y0&cover_image=true&theme=tokyonight)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31ceysjt5kp2rvokdmdtn7w6i3za&cover_image=true&theme=tokyonight&show_offline=false&background_color=1a1b26&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### 🛠 System & Environment
 
