@@ -1,5 +1,4 @@
 # About Me:
-
 <p align="center">
   <img src="main.svg" width="800" alt="Tsuk1y0 Profile" />
 </p>
@@ -27,6 +26,7 @@
 </p>
 
 ---
+
 <p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Tsuk1y0Dev&icon=0&color=0" alt="Visit Count" />
@@ -34,4 +34,6 @@
 </p>
 
 ## ☕ Support my journey
+*If you find my configs helpful or just want to support a fellow Linux enthusiast, I’d appreciate a coffee!* ☕
+
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Tsuk1y0)
