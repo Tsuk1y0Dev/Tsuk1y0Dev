@@ -11,7 +11,7 @@
 
 <br/>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <table border="0">
   <tr>
     <td width="50%" align="center">
