@@ -30,9 +30,9 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ceysjt5kp2rvokdmdtn7w6i3za&cover_image=true&theme=default&show_offline=false&background_color=1a1b26&interchange=false&profanity=false" alt="Spotify" width="400" />
   </a>
-</p>
+</p> -->
 
