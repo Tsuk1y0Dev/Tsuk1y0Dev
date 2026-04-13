@@ -36,17 +36,3 @@
   </a>
 </p>
 
----
-
-## ☕ Support my journey
-*If you find my configs helpful or just want to support a fellow Linux enthusiast, I’d appreciate a coffee!* ☕
-
-<p align="left">
-  <a href="https://buymeacoffee.com/Tsuk1y0">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Tsuk1y0Dev&color=79dac8&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-</p>
