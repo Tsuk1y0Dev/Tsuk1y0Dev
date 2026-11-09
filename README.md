@@ -12,27 +12,15 @@
 <br/>
 
 # GitHub Stats:
-<table border="0">
-  <tr>
+  <!-- <tr>
     <td width="50%" align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tsuk1y0Dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tsuk1y0Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsuk1y0Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
+  </tr> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsuk1y0Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 
-<br/>
 
-<!-- <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ceysjt5kp2rvokdmdtn7w6i3za&cover_image=true&theme=default&show_offline=false&background_color=1a1b26&interchange=false&profanity=false" alt="Spotify" width="400" />
-  </a>
-</p> -->
 
